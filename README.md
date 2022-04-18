@@ -1,2 +1,2 @@
-# Course_Pandas
+# Course_pandas
 Course of pandas (Data Management with Python)
